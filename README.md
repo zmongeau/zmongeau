@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Zachary, and I am a student at the University of Rhode Island. Even though I am very new to working within GitHub, I am looking forward to expanding my skillset and having a greater understanding of the service.
 <!--
 **zmongeau/zmongeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
