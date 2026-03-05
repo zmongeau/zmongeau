@@ -1,17 +1,17 @@
 ## About Me
 
-Hi there 👋 My name is Zachary, and I am a student at the University of Rhode Island. Even though I am very new to working within GitHub, I am looking forward to expanding my skillset and having a greater understanding of the service.
-<!--
-**zmongeau/zmongeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋 I'm Zachary, a junior at the University of Rhode Island majoring in **Computer Engineering** and **Computer Science**.
 
-Here are some ideas to get you started:
+## 🎓 What I'm Doing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏫 Working as a **Teaching Assistant**, helping students succeed in their coursework
+- 💻 Building experience with various programming languages and concepts
+
+## 💻 Languages & Tools
+
+**Programming Languages**: Python, C++, MATLAB  
+**Hardware & Lab Equipment**: Oscilloscopes, breadboards, function generators, power supplies
+
+## 📫 Get In Touch
+
+- 📧 Email: [zachary_mongeau@uri.edu]
